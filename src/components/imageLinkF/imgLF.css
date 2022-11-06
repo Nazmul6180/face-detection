@@ -1,0 +1,14 @@
+.form {
+    width: 700px;
+    background-color: #0da8a1;
+background-image: linear-gradient(to right, rgb(95, 176, 230) , rgb(231, 74, 74)),
+linear-gradient(to right, rgb(95, 176, 230) , rgb(231, 74, 74)),
+linear-gradient(to right, rgb(95, 176, 230) , rgb(231, 74, 74) 50%),
+linear-gradient(to right, rgb(95, 176, 230) , rgb(231, 74, 74) 50%);
+}
+
+
+/* transparent 50% */
+/* rgb(231, 74, 74) */
+/* rgb(95, 176, 230) */
+/* background-size: 13px, 29px, 37px, 53px; */
